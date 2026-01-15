@@ -77,8 +77,3 @@ No personal data from the original participants was sent to the OpenAI API.
 All inputs were anonymized, generic, aggregated descriptions of barriers and behavior change techniques. 
 The generated data consists purely of synthetic AI judgments.
 
---------------------------------------------------------------------------------
-7. CITATION
---------------------------------------------------------------------------------
-When using this code or the prompts, please cite:
-Scherpereel, D. (2026). The Effectiveness of Prompt Engineering for Optimizing LLM-Generated Coping Plans. Master's Thesis, Ghent University.
