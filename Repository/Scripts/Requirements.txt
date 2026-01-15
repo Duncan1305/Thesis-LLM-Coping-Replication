@@ -1,0 +1,14 @@
+# Data manipulatie en wiskunde
+pandas
+numpy
+
+# OpenAI API en validatie
+openai>=1.0.0
+pydantic
+python-dotenv
+
+# Visualisatie
+matplotlib
+
+# Excel ondersteuning (nodig voor pd.read_excel en to_excel)
+openpyxl
